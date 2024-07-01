@@ -1,15 +1,10 @@
 manifestVersion: 1.1
-id: home-assistant-umb
+id: testappstore-home-assistant-umb
 category: automation
 name: Home Assistant Test
 version: "2024.6-yo"
 tagline: Testtt
 description: >-
-  test
-
-  Home Assistant keeps your data local, no need for a cloud. Home Assistant communicates with your devices locally, and will fallback to pulling in data from the cloud if there is no other option. No data is stored in the cloud, and everything is processed locally.
-
-
   Note: The USB adapter discovery feature (e.g., for Zigbee dongles connected directly to the device running Umbrel) may not work reliably for Umbrel users on Raspberry Pi.
 developer: Home Assistant1
 website: https://home-assistant.io
